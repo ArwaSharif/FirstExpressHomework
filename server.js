@@ -40,7 +40,6 @@ app.get('/:number_of_bottles', (req, res) => {
     //    let minusbottles = req.params.number_of_bottles =- 1
     //     return `<h1> this is minus b ${minusbottles}<h1>`
     // }
-
 })
 
 
